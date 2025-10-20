@@ -13,7 +13,7 @@ All official information and product details are available on our website: [Mave
 
 <div align="center">
   <picture>
-    <img alt="Maverick_Front" src="datasheet/Maverick_front.png" height="380" style="vertical-align: middle; margin-right: 8px;">
+    <img alt="Maverick_Front" src="datasheet/Maverick_front.png" height="480" style="vertical-align: middle; margin-right: 8px;">
   </picture>
 </div>
 
