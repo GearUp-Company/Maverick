@@ -4,13 +4,13 @@
     <source media="(prefers-color-scheme: light)" srcset="datasheet/Gearup.png">
     <img alt="GearUp Logo" src="datasheet/Gearup.png" height="25" style="vertical-align: middle; margin-right: 8px;">
   </picture>
-  AirBrainH743
+  Maverick
 </h1>
 
 This GitHub repository serves as a backup and documentation hub for the Maverick meshtastic device.
 
 All official information and product details are available on our website: [Maverick Product page](https://takeyourgear.com/pages/products/maverick)
-<div align="center">
+<div align="center" height="125">
 
 ![AirBrain_Front](/datasheet/Maverick_front.png)
 
@@ -27,7 +27,8 @@ The /datasheet folder contains the official datasheet and pinout diagrams for th
 
 <div align="center">
 
-![Maverick_Pinout_top](/datasheet/AirBrain_pinoutTop.png)
+![Maverick_Pinout_top](/datasheet/Maverick_pinoutTop.png)
+![Maverick_Pinout_bottom](/datasheet/Maverick_pinoutBottom.png)
 
 </div>
 
