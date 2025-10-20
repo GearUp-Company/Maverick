@@ -10,11 +10,10 @@
 This GitHub repository serves as a backup and documentation hub for the Maverick meshtastic device.
 
 All official information and product details are available on our website: [Maverick Product page](https://takeyourgear.com/pages/products/maverick)
-<div align="center" maxHeight="40">
 
-![AirBrain_Front](/datasheet/Maverick_front.png)
-
-</div>
+  <picture>
+    <img alt="Maverick_Front" src="datasheet/Maverick_front.png" height="80" style="vertical-align: middle; margin-right: 8px;">
+  </picture>
 
 ## Overview
 
