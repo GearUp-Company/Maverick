@@ -11,9 +11,11 @@ This GitHub repository serves as a backup and documentation hub for the Maverick
 
 All official information and product details are available on our website: [Maverick Product page](https://takeyourgear.com/pages/products/maverick)
 
+<div align="center">
   <picture>
-    <img alt="Maverick_Front" src="datasheet/Maverick_front.png" height="80" style="vertical-align: middle; margin-right: 8px;">
+    <img alt="Maverick_Front" src="datasheet/Maverick_front.png" height="180" style="vertical-align: middle; margin-right: 8px;">
   </picture>
+</div>
 
 ## Overview
 
