@@ -10,7 +10,7 @@
 This GitHub repository serves as a backup and documentation hub for the Maverick meshtastic device.
 
 All official information and product details are available on our website: [Maverick Product page](https://takeyourgear.com/pages/products/maverick)
-<div align="center" height="80">
+<div align="center" height="40">
 
 ![AirBrain_Front](/datasheet/Maverick_front.png)
 
@@ -25,14 +25,14 @@ This repository exists to provide a secondary reference location — hosting doc
 
 The /datasheet folder contains the official datasheet and pinout diagrams for the AirBrain flight controller.
 
-<div align="center" height="80">
+<div align="center" height="40">
 
 
 ![Maverick_Pinout_top](/datasheet/Maverick_pinoutTop.svg)
 
 </div>
 
-<div align="center" height="80">
+<div align="center" height="40">
 
 ![Maverick_Pinout_bottom](/datasheet/Maverick_pinoutBottom.svg)
 
