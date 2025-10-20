@@ -25,10 +25,16 @@ This repository exists to provide a secondary reference location — hosting doc
 
 The /datasheet folder contains the official datasheet and pinout diagrams for the AirBrain flight controller.
 
-<div align="center">
+<div align="center" height="125">
 
-![Maverick_Pinout_top](/datasheet/Maverick_pinoutTop.png)
-![Maverick_Pinout_bottom](/datasheet/Maverick_pinoutBottom.png)
+
+![Maverick_Pinout_top](/datasheet/Maverick_pinoutTop.svg)
+
+</div>
+
+<div align="center" height="125">
+
+![Maverick_Pinout_bottom](/datasheet/Maverick_pinoutBottom.svg)
 
 </div>
 
