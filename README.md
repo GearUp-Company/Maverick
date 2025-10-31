@@ -20,7 +20,7 @@ All official information and product details are available on our website: [Mave
 ## Overview
 
 The Maverick is now supported by for Meshtastic, with the target soon to be added to their main branches.
-This repository exists to provide a secondary reference location — hosting documentation, pinout diagrams, and firmware resources — to ensure the information remains easily accessible.
+This repository exists to provide a secondary reference location, hosting documentation, pinout diagrams, and firmware resources to ensure the information remains easily accessible.
 
 ## Pinout & Datasheet
 
