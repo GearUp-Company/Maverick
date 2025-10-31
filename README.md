@@ -7,7 +7,7 @@
   Maverick
 </h1>
 
-This GitHub repository serves as a backup and documentation hub for the Maverick meshtastic device.
+This GitHub repository serves as a backup and documentation hub for the Maverick meshtastic node.
 
 All official information and product details are available on our website: [Maverick Product page](https://takeyourgear.com/pages/products/maverick)
 
@@ -38,10 +38,6 @@ The /datasheet folder contains the official datasheet and pinout diagrams for th
 ![Maverick_Pinout_bottom](/datasheet/Maverick_pinoutBottom.png)
 
 </div>
-
-## 3D printed files
- 
- The /3D folder contains step files for the 3D printed casing. 
 
 
 ## Firmware
@@ -81,6 +77,11 @@ meshtastic --set position.gps_attempt_time 1800
 meshtastic --set position.position_flags 171
 meshtastic --set position.gps_mode ENABLED
 ```
+
+## 3D printed files
+ 
+ The /3D folder contains step files for the 3D printed casing. 
+ 
 
 ## Contact & More Info
 
